@@ -2,18 +2,16 @@
 
 ## Description 
 
-This is an progressive-budget that I'm creating. Basically, it gives the user the possibility to randomly create the password.
+This is an progressive-budget that I'm creating. Basically, it gives the user the possibility to use the application without connecting to internet.
 
-Thus, the messages will be displaying to ask the user about what he wants. From the beginning, it will ask the user how many character he wants. So, the user will have the option to choose from 8 to 128 characters. And then,  the user will have the option to choose if he wants his password to have lowercase, upper case, special character, numbers. Once the user makes his own choice, it will generate the password according to the user's choice. 
+![Progressive-Budget](./progressive-budget.png)
 
-![Password](./03-password-generator.png)
-
-Below is the link to Deployment:
-https://charles198618.github.io/passwordgenerator/
+Below is the link to Heroku Deployment:
+ https://calm-shelf-13767.herokuapp.com/
 
 ## OBJECTIVES
 
-The motivation that pushed me to realize this project is because I wanted to solve a problem in society. Nowadays, many people loose datas such as documents, pictures, even money because they don't have a strong password. But with this project, the user will be able a generate a very strong password that will help users to protect  sensitive informations or datas on internet.
+The motivation that pushed me to realize this project is because I wanted to solve a problem in society. Nowadays, many people can travel all over the world, people go to place where there is no internet connection. Therefore we want people to be able to use the application without connecting to internet.
 
 
 ## Languages used
@@ -22,4 +20,4 @@ In order to get to this result, I have use HTML, CSS, and JavaScript. First of a
 
 ## Challenges met
 
-There was many challenges during the realization of this project. The big obstacle was how to use the conditional such as if and satisfies our the customers needs. Also, the use of for and while loops were the biggest challenges.
+There was many challenges during the realization of this project. The big obstacle was how to use configure MongoDB Atlas and how to deploy the app in Heroku.
